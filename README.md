@@ -6,10 +6,10 @@ No need to memorize commands — you’ll find them here in both documentation a
 
 This project is built for developers at all levels, making it easier to set up, commit, and share your work confidently.  
 
-- [Read in English](./README.en.md)  
-- [Read in Arabic](./README.ar.md)  
+- [Read in English](https://github.com/GitEase-Git-Helper/GitEase-Docs-En.git)  
+- [Read in Arabic](https://github.com/GitEase-Git-Helper/GitEase-Docs-Ar.git)  
 
-👉 For a direct and interactive experience, visit our website: [GitEase Online](https://example.com)
+👉 For a direct and interactive experience, visit our website: [GitEase Online](https://git-ease-five.vercel.app/)
 
 ---
 
@@ -21,9 +21,9 @@ This project is built for developers at all levels, making it easier to set up, 
 
 هذا المشروع موجه للمطورين على جميع المستويات ليساعدك في تهيئة مشروعك، وتنفيذ الالتزامات (commit)، ومشاركة عملك بسهولة وثقة.  
 
-- [اقرأ بالعربية](./README.ar.md)  
-- [اقرأ بالإنجليزية](./README.en.md)  
+- [اقرأ بالعربية](https://github.com/GitEase-Git-Helper/GitEase-Docs-Ar.git)  
+- [اقرأ بالإنجليزية](https://github.com/GitEase-Git-Helper/GitEase-Docs-En.git)  
 
-👉 لتجربة تفاعلية مباشرة، زر موقعنا: [GitEase Online](https://example.com)
+👉 لتجربة تفاعلية مباشرة، زر موقعنا: [GitEase Online](https://git-ease-five.vercel.app/)
 
 </div>
